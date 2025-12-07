@@ -1,0 +1,12 @@
+# Ignorar carpetas generadas automáticamente por .NET/C#
+[Bb]in/
+[Oo]bj/
+
+# Ignorar archivos innecesarios
+*.sln
+*.suo
+*.user
+*.log
+
+# Archivos que quieres ignorar explícitamente (README.md eliminado)
+README.md
