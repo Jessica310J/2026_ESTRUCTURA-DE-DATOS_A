@@ -1,10 +1,4 @@
-/*
- * Deber Estructura de datos: Figuras Geométricas
- * Estudiante: Jessica Paola Pesantez
- * Semestre: 3A
- * Fecha: 07 de Diciembre de 2025
- * Hoja: 1/1
- */
+
 using System;
 
 namespace FigurasGeometricas
